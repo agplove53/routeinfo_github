@@ -12,7 +12,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		Log.i("MainActivity", "routeinfo_github 111");
+		Log.i("MainActivity", "routeinfo_github 222");
 	}
 
 	@Override
